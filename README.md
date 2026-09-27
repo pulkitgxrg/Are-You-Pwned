@@ -2,7 +2,7 @@
 
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue) ![Built with](https://img.shields.io/badge/Built_with-React-red)
 
-![Are You Pwned](https://socialify.git.ci/pulkitgarg04/Are-You-Pwned/image?language=1&name=1&owner=1&theme=Dark)
+![Are You Pwned](https://socialify.git.ci/pulkitgxrg/Are-You-Pwned/image?language=1&name=1&owner=1&theme=Dark)
 
 A React-based web application to check if a GitHub user has accidentally pushed sensitive .env files to their public or private repositories, helping identify potential security risks.
 
@@ -21,7 +21,7 @@ A React-based web application to check if a GitHub user has accidentally pushed 
 ## Installation
 1. Clone the Repository:
   ```bash
-  git clone https://github.com/pulkitgarg04/are-you-pwned.git
+  git clone https://github.com/pulkitgxrg/are-you-pwned.git
   cd Are-You-Pwned
   ```
 
